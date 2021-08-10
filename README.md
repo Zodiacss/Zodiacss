@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anoushka!
+- 👀 I’m interested in Coding and learning new computing languages!
+- 🌱 I’m currently learning how to use programs like JavaScript and html.
+- 💞️ I’m looking to collaborate on new apps and new coding fun!
+- 📫 How to reach me ... Just tag me and I will get back to you!
